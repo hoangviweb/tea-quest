@@ -1,9 +1,9 @@
 {
-  "name": "@hoangitt/tea-quest",
+  "name": "@hoang.viweb/tea-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@hoangitt",
+  "author": "@hoang.viweb",
   "repository": "https://github.com/hoangitt/tea-quest.git",
   "license": "ISC"
 }
